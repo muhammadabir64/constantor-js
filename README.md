@@ -2,7 +2,7 @@
 ### A collection of string constants for JavaScript
 A constant is used to define a fixed value in a variable that cannot be modified anywhere in the code following declaration. This JavaScript module contains some string constants that can be used for various purposes like generate random string for passwords, tokens etc...
 
-| Plugin | README |
+| Constant | Value |
 | ------ | ------ |
 | ascii_lowercase | abcdefghijklmnopqrstuvwxyz |
 | ascii_uppercase | ABCDEFGHIJKLMNOPQRSTUVWXYZ |
@@ -26,5 +26,5 @@ console.log(getstr.ascii_lowercase);
 ```sh
 abcdefghijklmnopqrstuvwxyz
 ```
-
+\
 [This module was inspired by python string/lib](https://docs.python.org/3/library/string.html)
