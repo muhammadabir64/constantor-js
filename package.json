@@ -1,5 +1,5 @@
 {
-  "name": "getstr",
+  "name": "constantor-js",
   "version": "1.0.0",
   "description": "A collection of string constants for JavaScript",
   "main": "index.js",
@@ -9,13 +9,14 @@
   "author": "Muhammad Abir",
   "repository": {
     "type": "git",
-    "url": "https://github.com/muhammadabir64/getstr.git"
+    "url": "https://github.com/muhammadabir64/constantor-js.git"
   },
+  "homepage": "https://github.com/muhammadabir64/constantor-js",
   "readmeFilename": "README.md",
   "license": "MIT",
   "keywords": [
-    "getstr",
-    "string constants",
+    "constantor-js",
+    "string constant",
     "string collection"
   ]
 }
