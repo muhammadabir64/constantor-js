@@ -1,12 +1,20 @@
 {
   "name": "getstr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of string constants for JavaScript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Muhammad Abir",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhammadabir64/getstr.git"
+  },
+  "readmeFilename": "README.md",
   "license": "MIT",
-  "keywords": ["string constants", "string collection"]
+  "keywords": [
+    "string constants",
+    "string collection"
+  ]
 }
