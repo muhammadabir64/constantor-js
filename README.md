@@ -1,5 +1,3 @@
-Toggle Mode
-  
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="getstr_0"></a>getstr</h1>
 <h3 class="code-line" data-line-start=1 data-line-end=2 ><a id="A_collection_of_string_constants_for_JavaScript_1"></a>A collection of string constants for JavaScript</h3>
 <p class="has-line-data" data-line-start="2" data-line-end="3">A constant is used to define a fixed value in a variable that cannot be modified anywhere in the code following declaration. This JavaScript module contains some string constants that can be used for various purposes like generate random string for passwords, tokens etc…</p>
@@ -58,4 +56,4 @@ console.log(getstr.ascii_lowercase);
 <p class="has-line-data" data-line-start="24" data-line-end="25"><strong>output</strong></p>
 <pre><code class="has-line-data" data-line-start="26" data-line-end="28" class="language-sh">abcdefghijklmnopqrstuvwxyz
 </code></pre>
-<p class="has-line-data" data-line-start="29" data-line-end="30"><a href="https://docs.python.org/3/library/string.html">This module was inspired by python string/lib</a></p>
+<p class="has-line-data" data-line-start="29" data-line-end="30"><a href="https://docs.python.org/3/library/string.html" target="_blank">This module was inspired by python string/lib</a></p>
