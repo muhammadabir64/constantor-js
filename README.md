@@ -16,11 +16,11 @@ A constant is used to define a fixed value in a variable that cannot be modified
 
 ## usage
 ```sh
-npm i getstr
+npm i constantor-js
 ```
 ```sh
-const getstr = require("getstr");
-console.log(getstr.ascii_lowercase);
+const constantor = require("constantor-js");
+console.log(constantor.ascii_lowercase);
 ```
 **output**
 ```sh
