@@ -1,4 +1,4 @@
-#constantor-js
+# constantor-js
 ### A collection of string constants for JavaScript
 A constant is used to define a fixed value in a variable that cannot be modified anywhere in the code following declaration. This JavaScript module contains some string constants that can be used for various purposes like generate random string for passwords, tokens etc...
 
