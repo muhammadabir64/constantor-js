@@ -1,4 +1,4 @@
-/* getstr
+/* constantor-js
  * Copyright(c) 2022 Muhammad Abir
  * MIT Licensed
 */
