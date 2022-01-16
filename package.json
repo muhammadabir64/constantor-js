@@ -1,0 +1,12 @@
+{
+  "name": "getstr",
+  "version": "1.0.0",
+  "description": "A collection of string constants for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Abir",
+  "license": "MIT",
+  "keywords": ["string constants", "string collection"]
+}
