@@ -1,6 +1,6 @@
 {
   "name": "constantor-js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A collection of string constants for JavaScript",
   "main": "index.js",
   "scripts": {
