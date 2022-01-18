@@ -27,4 +27,4 @@ console.log(constantor.ascii_lowercase);
 abcdefghijklmnopqrstuvwxyz
 ```
 \
-[This module was inspired by python string/lib](https://docs.python.org/3/library/string.html)
+[This module was heavily inspired by python string/lib](https://docs.python.org/3/library/string.html)
