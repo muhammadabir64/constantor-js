@@ -1,5 +1,5 @@
 /* constantor-js
- * Copyright(c) 2022 Muhammad Abir
+ * Copyright (c) 2022 Muhammad ABir
  * MIT Licensed
 */
 
